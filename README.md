@@ -2,9 +2,10 @@
 
 ### Interesting
 
-- LLM architecture, Research, LLM, NLP, ML, AI(Python);
+- ML Research, LLM, NLP, ML, AI (Python);
 - GameDev (C#);
-- Sports/Olympic programming (C++);
+- Sports programming (C++);
+- Sports programming ML (python);
 
 ### My stats:
 
