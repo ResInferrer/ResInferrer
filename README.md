@@ -1,4 +1,4 @@
-## Hi there! Here is Koting.
+## Hi there! Here is ResInferrer.
 
 ### Interesting
 
